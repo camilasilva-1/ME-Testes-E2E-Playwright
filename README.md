@@ -25,10 +25,6 @@ Atualmente, o sistema possui um protótipo de interface. A integração com o mo
 
 As instruções de instalação e execução serão adicionadas quando os testes estiverem implementados.
 
-## Entrega
-
-O trabalho incluirá os **três testes automatizados**, o código, as instruções de execução e os **slides da apresentação**.
-
 **Status:** em desenvolvimento.
 
 ## Referências
